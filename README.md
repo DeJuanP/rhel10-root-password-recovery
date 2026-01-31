@@ -13,3 +13,7 @@ The goal of this lab is to provide practical insight for administrators who mana
 
 ## Recommendations 
 -For homelab installations, the full DVD ISO is recommended to avoid network-related installation issues.  However, both ISO types produce an equivalent installed RHEL 10 system.
+
+## Repository Structure
+- docs/ - Detailed walkthroughs and explanations
+- examples/ - Minimal command sequences
